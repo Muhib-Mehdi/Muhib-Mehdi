@@ -15,16 +15,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Muhib-Mehdi\&theme=radical\&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhib-Mehdi\&theme=radical\&hide_border=true\&include_all_commits=true\&count_private=false\&layout=compact)
 
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=vetical\&theme=radical)
-
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=Muhib-Mehdi\&limit=5\&theme=radical\&combine_all_yearly_contributions=true)
 
 ---
-
-![](https://visitcount.itsvg.in/api?id=Muhib-Mehdi\&icon=2\&color=0)](https://visitcount.itsvg.in)
-
 </div>
