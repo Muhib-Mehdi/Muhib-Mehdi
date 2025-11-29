@@ -1,6 +1,5 @@
-# 💫 About Me:
 <div align="center">
-
+# 💫 About Me:
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Muhib-Mehdi\&theme=radical\&hide_border=true\&include_all_commits=true\&count_private=false)<br/>
