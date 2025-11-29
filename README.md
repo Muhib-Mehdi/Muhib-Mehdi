@@ -1,7 +1,4 @@
 # 💫 About Me:
-
-👋 Hey, I’m Muhib Mehdi<br><br>I’m a Full-Stack & Hardware Developer from Delhi, India—someone who loves building things that actually work. I’m all about blending software with hardware, exploring how digital logic meets the real world, and learning something new with every project (because lowkey, that’s the fun part).<br><br>🚀 What I Do<br><br>💻 Full-Stack Development — currently leveling up hard<br><br>🤖 AI & Machine Learning — obsessed with intelligent systems<br><br>🛠️ Hardware & Embedded Projects — turning logic into physical design<br><br>☁️ Cloud & Architecture — scalable systems ftw<br><br>🎮 Game Dev experiments — because why not<br><br>🏆 Competitive Programming — sharpening the problem-solving sword<br><br>✍️ Tech Blogging & Mentoring — sharing what I learn<br><br>🧠 How I Think<br><br>I’m a hands-on learner—build first, understand deeper later. I like keeping things practical, creative, and clean. My goal is to grow into a well-rounded engineer who can jump between software, hardware, and AI without breaking a sweat.<br><br>I’ve mentored juniors, contributed to open source, and picked up hackathon wins + innovation awards along the way.<br><br>✨ What I’m About<br><br>Curious. Practical. Ambitious. A little nerdy.<br>Always building. Always learning.<br>Trying to make cool things that make life easier or more fun — sometimes both.
-
 <div align="center">
 
 ## 🌐 Socials:
@@ -28,6 +25,6 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Muhib-Mehdi\&icon=2\&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=Muhib-Mehdi\&icon=2\&color=0)](https://visitcount.itsvg.in)
 
 </div>
