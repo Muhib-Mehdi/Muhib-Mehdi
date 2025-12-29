@@ -1,0 +1,515 @@
+// ============================================
+// PORTFOLIO OS - CONFIGURATION FILE
+// ============================================
+// Update your personal information here!
+// This is the SINGLE SOURCE OF TRUTH for all your data.
+
+export const PERSONAL_INFO = {
+    // Basic Info
+    name: "Muhib Mehdi",
+    email: "muhibmehdi24@gmail.com",              // UPDATE: Your email address
+    phone: "+91 8954727212",                 // UPDATE: Your phone number
+    location: "Meerut, India",                   // UPDATE: Your location
+
+    // Social Links
+    github: process.env.NEXT_PUBLIC_GITHUB_URL || "https://github.com/Muhib-Mehdi",
+    linkedin: process.env.NEXT_PUBLIC_LINKEDIN_URL || "https://www.linkedin.com/in/muhib-mehdi-677bb7391/",
+    twitter: process.env.NEXT_PUBLIC_TWITTER_URL || "",
+
+    // Profile
+    bio: "I’m an aspiring Full-Stack & Hardware Developer with a passion for building things that work — whether that’s clean, scalable code or hands-on hardware projects. I love exploring how software and hardware come together, and I’m constantly learning new technologies to turn ideas into real, functional systems. My skillset spans Java, Python, C, HTML, CSS, JavaScript, React, RUST, and Node.js, and I enjoy creating projects that are both practical and creative. Beyond software, I experiment with DIY hardware builds, microcontrollers, and real-world tech prototypes, always trying to bridge the gap between digital logic and physical design. I believe in learning by doing every project teaches me something new, improves my problem-solving mindset, and pushes me toward becoming a well-rounded engineer. I’m currently focused on leveling up my full-stack development skills while continuing to build innovative hardware concepts.",
+    tagline: "Full-Stack & Hardware Developer | Java • Python • React • C • RUST • Node.js | Cyber-Security • Android-DEV • Game-DEV • WEB-DEV | Creative Tech Builder (Software + DIY Hardware Projects)",
+
+    // Resume
+    resumeUrl: "./assets/resume.pdf",             // UPDATE: Path to your resume PDF
+};
+
+export const SKILLS = {
+    languages: [
+        { name: "JavaScript", proficiency: 95, icon: "⚡", color: "#f7df1e" },
+        { name: "TypeScript", proficiency: 90, icon: "📘", color: "#3178c6" },
+        { name: "Python", proficiency: 85, icon: "🐍", color: "#3776ab" },
+        { name: "Java", proficiency: 80, icon: "☕", color: "#007396" },
+        { name: "C++", proficiency: 75, icon: "⚙️", color: "#00599c" },
+        { name: "Rust", proficiency: 70, icon: "🦀", color: "#ce422b" },
+        { name: "C", proficiency: 75, icon: "🔧", color: "#a8b9cc" },
+        { name: "PHP", proficiency: 70, icon: "🐘", color: "#777bb4" },
+    ],
+    frameworks: [
+        { name: "React", proficiency: 95, icon: "⚛️", color: "#61dafb" },
+        { name: "Next.js", proficiency: 90, icon: "▲", color: "#000000" },
+        { name: "Node.js", proficiency: 85, icon: "🟢", color: "#339933" },
+        { name: "Express", proficiency: 85, icon: "🚂", color: "#000000" },
+        { name: "Django", proficiency: 75, icon: "🎸", color: "#092e20" },
+        { name: "Spring", proficiency: 70, icon: "🍃", color: "#6db33f" },
+    ],
+    tools: [
+        { name: "Git", proficiency: 90, icon: "📚" },
+        { name: "Docker", proficiency: 80, icon: "🐳" },
+        { name: "AWS", proficiency: 75, icon: "☁️" },
+        { name: "MongoDB", proficiency: 85, icon: "🍃" },
+        { name: "PostgreSQL", proficiency: 80, icon: "🐘" },
+    ],
+};
+
+export const EXPERIENCE = [
+    {
+        company: "Tech Company Inc.",
+        role: "Senior Full Stack Developer",
+        duration: "2022 - Present",
+        description: "Leading development of scalable web applications using React, Node.js, and AWS. Mentoring junior developers and implementing best practices.",
+        technologies: ["React", "Node.js", "AWS", "TypeScript"],
+    },
+    {
+        company: "Startup XYZ",
+        role: "Full Stack Developer",
+        duration: "2020 - 2022",
+        description: "Built and maintained multiple client projects. Implemented CI/CD pipelines and improved application performance by 40%.",
+        technologies: ["Vue.js", "Python", "Docker"],
+    },
+    {
+        company: "Digital Agency",
+        role: "Junior Developer",
+        duration: "2018 - 2020",
+        description: "Developed responsive websites and web applications. Collaborated with designers to create pixel-perfect implementations.",
+        technologies: ["JavaScript", "PHP", "MySQL"],
+    },
+];
+
+export const EDUCATION = [
+    {
+        institution: "St. Patrick's Academy",
+        degree: "Grade 10",
+        year: "2015 - 2024",
+        gpa: "4.0/4.0",
+    },
+    {
+        institution: "St. Francis world school",
+        degree: "Grade 12",
+        year: "2024-2026",
+        gpa: "--/4.0",
+    },
+];
+
+export const INTERESTS = [
+    "Open Source Contribution",
+    "AI & Machine Learning",
+    "Game Development",
+    "Cloud Architecture",
+    "Competitive Programming",
+    "Tech Blogging",
+    "Mentoring",
+];
+
+export const CERTIFICATES = [
+    {
+        id: "cert-aws-c1",
+        name: "AWS C1",
+        issuer: "Amazon Web Services",
+        date: "2024",
+        description: "Advanced AWS cloud computing certification demonstrating expertise in cloud architecture and deployment strategies.",
+        file: "/assets/certificates/AWS C1.pdf",
+        type: "pdf" as const,
+        verificationUrl: "",
+    },
+    {
+        id: "cert-aws-c2",
+        name: "AWS C2",
+        issuer: "Amazon Web Services",
+        date: "2024",
+        description: "Specialized AWS certification focusing on serverless computing and modern cloud-native application development.",
+        file: "/assets/certificates/AWS C2.pdf",
+        type: "pdf" as const,
+        verificationUrl: "",
+    },
+    {
+        id: "cert-aws-c3",
+        name: "AWS C3",
+        issuer: "Amazon Web Services",
+        date: "2024",
+        description: "AWS certification covering advanced cloud security, compliance, and best practices for enterprise solutions.",
+        file: "/assets/certificates/AWS C3.pdf",
+        type: "pdf" as const,
+        verificationUrl: "",
+    },
+    {
+        id: "cert-google-c1",
+        name: "Google C1",
+        issuer: "Google",
+        date: "2024",
+        description: "Google Analytics certification demonstrating proficiency in data analysis and digital marketing metrics.",
+        file: "/assets/certificates/Google C1.pdf",
+        type: "pdf" as const,
+        verificationUrl: "",
+    },
+    {
+        id: "cert-google-c2",
+        name: "Google C2",
+        issuer: "Google",
+        date: "2024",
+        description: "Advanced Google certification in conversion optimization and user experience analytics.",
+        file: "/assets/certificates/Google C2.pdf",
+        type: "pdf" as const,
+        verificationUrl: "",
+    },
+    {
+        id: "cert-google-c3",
+        name: "Google C3",
+        issuer: "Google",
+        date: "2024",
+        description: "Google certification in GA4 data tracking, reporting, and advanced analytics implementation.",
+        file: "/assets/certificates/Google C3.pdf",
+        type: "pdf" as const,
+        verificationUrl: "",
+    },
+    {
+        id: "cert-ibm-c1",
+        name: "IBM C1",
+        issuer: "IBM",
+        date: "2024",
+        description: "IBM Python for Data Science certification covering data manipulation, analysis, and visualization techniques.",
+        file: "/assets/certificates/IBM C1.pdf",
+        type: "pdf" as const,
+        verificationUrl: "",
+    },
+    {
+        id: "cert-ibm-c2",
+        name: "IBM C2",
+        issuer: "IBM",
+        date: "2024",
+        description: "IBM Deep Learning certification demonstrating expertise in neural networks and AI model development.",
+        file: "/assets/certificates/IBM C2.pdf",
+        type: "pdf" as const,
+        verificationUrl: "",
+    },
+    {
+        id: "cert-ms-c1",
+        name: "Microsoft C1",
+        issuer: "Microsoft",
+        date: "2024",
+        description: "Microsoft certification in cloud technologies and Azure platform fundamentals.",
+        file: "/assets/certificates/Microsoft C1.pdf",
+        type: "pdf" as const,
+        verificationUrl: "",
+    },
+    {
+        id: "cert-ms-c2",
+        name: "Microsoft C2",
+        issuer: "Microsoft",
+        date: "2024",
+        description: "Advanced Microsoft certification in enterprise software development and DevOps practices.",
+        file: "/assets/certificates/Microsoft C2.pdf",
+        type: "pdf" as const,
+        verificationUrl: "",
+    },
+    {
+        id: "cert-ms-c3",
+        name: "Microsoft C3",
+        issuer: "Microsoft",
+        date: "2024",
+        description: "Microsoft certification in modern application architecture and cloud-native development.",
+        file: "/assets/certificates/Microsoft C3.pdf",
+        type: "pdf" as const,
+        verificationUrl: "",
+    },
+    {
+        id: "cert-oracle-c1",
+        name: "Oracle C1",
+        issuer: "Oracle",
+        date: "2024",
+        description: "Oracle certification in database management and enterprise data solutions.",
+        file: "/assets/certificates/oracle C1.pdf",
+        type: "pdf" as const,
+        verificationUrl: "",
+    },
+    {
+        id: "cert-oracle-c2",
+        name: "Oracle C2",
+        issuer: "Oracle",
+        date: "2024",
+        description: "Oracle Foundation Associate AI certification covering artificial intelligence fundamentals and applications.",
+        file: "/assets/certificates/oracle C2.pdf",
+        type: "pdf" as const,
+        verificationUrl: "",
+    },
+    {
+        id: "cert-oracle-c3",
+        name: "Oracle C3",
+        issuer: "Oracle",
+        date: "2024",
+        description: "Advanced Oracle certification in cloud infrastructure and enterprise solutions.",
+        file: "/assets/certificates/oracle C3.pdf",
+        type: "pdf" as const,
+        verificationUrl: "",
+    },
+    {
+        id: "cert-social-ent",
+        name: "Social Entrepreneurship 101",
+        issuer: "Organization",
+        date: "2024",
+        description: "Certification in social entrepreneurship principles, impact-driven business models, and sustainable development.",
+        file: "/assets/certificates/Muhib_Mehdi_Social_Entrepreneurship_101.pdf",
+        type: "pdf" as const,
+        verificationUrl: "",
+    },
+];
+
+export const HONORS = [
+    {
+        id: "honor-1",
+        title: "Honor 1",
+        organization: "Organization",
+        date: "2024",
+        description: "Description of the honor",
+        file: "/assets/honors/Certificate-1.png",
+        type: "image" as const,
+    },
+    {
+        id: "honor-2",
+        title: "Honor 2",
+        organization: "Organization",
+        date: "2024",
+        description: "Description of the honor",
+        file: "/assets/honors/Certificate-2.png",
+        type: "image" as const,
+    },
+    {
+        id: "honor-3",
+        title: "Honor 3",
+        organization: "Organization",
+        date: "2024",
+        description: "Description of the honor",
+        file: "/assets/honors/Certificate-3.png",
+        type: "image" as const,
+    },
+    {
+        id: "honor-4",
+        title: "Honor 4",
+        organization: "Organization",
+        date: "2024",
+        description: "Description of the honor",
+        file: "/assets/honors/Certificate-4.png",
+        type: "image" as const,
+    },
+    {
+        id: "honor-5",
+        title: "Honor 5",
+        organization: "Organization",
+        date: "2024",
+        description: "Description of the honor",
+        file: "/assets/honors/Certificate-5.png",
+        type: "image" as const,
+    },
+    {
+        id: "honor-6",
+        title: "Honor 6",
+        organization: "Organization",
+        date: "2024",
+        description: "Description of the honor",
+        file: "/assets/honors/Certificate-6.png",
+        type: "image" as const,
+    },
+    {
+        id: "honor-7",
+        title: "Honor 7",
+        organization: "Organization",
+        date: "2024",
+        description: "Description of the honor",
+        file: "/assets/honors/Certificate-7.png",
+        type: "image" as const,
+    },
+    {
+        id: "honor-8",
+        title: "Honor 8",
+        organization: "Organization",
+        date: "2024",
+        description: "Description of the honor",
+        file: "/assets/honors/Certificate-8.png",
+        type: "image" as const,
+    },
+    {
+        id: "honor-9",
+        title: "Honor 9",
+        organization: "Organization",
+        date: "2024",
+        description: "Description of the honor",
+        file: "/assets/honors/Certificate-9.png",
+        type: "image" as const,
+    },
+    {
+        id: "honor-10",
+        title: "Honor 10",
+        organization: "Organization",
+        date: "2024",
+        description: "Description of the honor",
+        file: "/assets/honors/Certificate-10.png",
+        type: "image" as const,
+    },
+    {
+        id: "honor-11",
+        title: "Honor 11",
+        organization: "Organization",
+        date: "2024",
+        description: "Description of the honor",
+        file: "/assets/honors/Certificate-11.png",
+        type: "image" as const,
+    },
+    {
+        id: "honor-12",
+        title: "Honor 12",
+        organization: "Organization",
+        date: "2024",
+        description: "Description of the honor",
+        file: "/assets/honors/Certificate-12.png",
+        type: "image" as const,
+    },
+    {
+        id: "honor-13",
+        title: "Honor 13",
+        organization: "Organization",
+        date: "2024",
+        description: "Description of the honor",
+        file: "/assets/honors/Certificate-13.png",
+        type: "image" as const,
+    },
+    {
+        id: "honor-14",
+        title: "Honor 14",
+        organization: "Organization",
+        date: "2024",
+        description: "Description of the honor",
+        file: "/assets/honors/Certificate-14.png",
+        type: "image" as const,
+    },
+    {
+        id: "honor-15",
+        title: "Honor 15",
+        organization: "Organization",
+        date: "2024",
+        description: "Description of the honor",
+        file: "/assets/honors/Certificate-15.png",
+        type: "image" as const,
+    },
+    {
+        id: "honor-16",
+        title: "Honor 16",
+        organization: "Organization",
+        date: "2024",
+        description: "Description of the honor",
+        file: "/assets/honors/Certificate-16.jpeg",
+        type: "image" as const,
+    },
+    {
+        id: "honor-17",
+        title: "Honor 17",
+        organization: "Organization",
+        date: "2024",
+        description: "Description of the honor",
+        file: "/assets/honors/Certificate17.pdf",
+        type: "pdf" as const,
+    },
+    {
+        id: "honor-18",
+        title: "Honor 18",
+        organization: "Organization",
+        date: "2024",
+        description: "Description of the honor",
+        file: "/assets/honors/Certificate18.pdf",
+        type: "pdf" as const,
+    },
+    {
+        id: "honor-19",
+        title: "Honor 19",
+        organization: "Organization",
+        date: "2024",
+        description: "Description of the honor",
+        file: "/assets/honors/certificate19.pdf",
+        type: "pdf" as const,
+    },
+];
+
+export const TIMELINE_EVENTS = [
+    {
+        id: "event-1",
+        title: "Started First Job",
+        description: "Joined Digital Agency as Junior Developer",
+        year: 2018,
+        category: "career" as const,
+    },
+    {
+        id: "event-2",
+        title: "Graduated University",
+        description: "Completed Bachelor's in Computer Science",
+        year: 2018,
+        category: "education" as const,
+    },
+    {
+        id: "event-3",
+        title: "Joined Startup",
+        description: "Moved to Startup XYZ as Full Stack Developer",
+        year: 2020,
+        category: "career" as const,
+    },
+    {
+        id: "event-4",
+        title: "Won First Hackathon",
+        description: "First place at Global Hack Week",
+        year: 2022,
+        category: "achievement" as const,
+    },
+    {
+        id: "event-5",
+        title: "Promoted to Senior Developer",
+        description: "Joined Tech Company Inc. as Senior Full Stack Developer",
+        year: 2022,
+        category: "career" as const,
+    },
+    {
+        id: "event-6",
+        title: "AWS Certification",
+        description: "Became AWS Certified Developer",
+        year: 2023,
+        category: "achievement" as const,
+    },
+    {
+        id: "event-7",
+        title: "Innovation Award",
+        description: "Received Best Innovation Award at Tech Conference",
+        year: 2023,
+        category: "achievement" as const,
+    },
+];
+
+export const TESTIMONIALS = [
+    {
+        id: "test-1",
+        author: "John Smith",
+        role: "CTO at Tech Company Inc.",
+        rating: 5,
+        text: "Muhib is an exceptional developer with a keen eye for detail. His ability to solve complex problems and mentor junior developers makes him an invaluable asset to any team.",
+        date: "2023-11",
+    },
+    {
+        id: "test-2",
+        author: "Sarah Johnson",
+        role: "Product Manager at Startup XYZ",
+        rating: 5,
+        text: "Working with Muhib was a pleasure. He consistently delivered high-quality code and was always willing to go the extra mile to ensure project success.",
+        date: "2023-08",
+    },
+    {
+        id: "test-3",
+        author: "Michael Chen",
+        role: "Senior Developer at Digital Agency",
+        rating: 5,
+        text: "Muhib's technical skills are outstanding, but what really sets him apart is his communication and teamwork. He's a natural leader and collaborator.",
+        date: "2023-05",
+    },
+];
+
+// Email configuration for contact form
+export const EMAIL_CONFIG = {
+    serviceId: "service_kdj65zh",      // UPDATE: Get from emailjs.com
+    templateId: "template_ed88l9i",    // UPDATE: Get from emailjs.com
+    publicKey: "E9TLoZmR6Vu7wnAPs",      // UPDATE: Get from emailjs.com
+};
