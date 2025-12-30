@@ -1,185 +1,29 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Muhib Mehdi</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-# 👋 Hi, I'm Muhib Mehdi
+- 🔭 I’m currently working on [StudyMitr](https://github.com/Muhib-Mehdi/StudyMitra)
 
-### Full Stack Developer | UI/UX Enthusiast | Creative Technologist
+- 🌱 I’m currently learning **C++**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00C7B7?style=for-the-badge&logo=vercel)](https://your-portfolio-url.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Muhib-Mehdi)
+- 👯 I’m looking to collaborate on [Nexus-OSINT](https://github.com/Muhib-Mehdi/OSINT-NEXUS)
 
-</div>
+- 👨‍💻 All of my projects are available at [muhib-mehdi.vercel.app](muhib-mehdi.vercel.app)
 
----
+- 📫 How to reach me **muhibmehdi24@gmail.com**
 
-## 💫 About Me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/muhib-mehdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhib-mehdi" height="30" width="40" /></a>
+</p>
 
-I'm a passionate developer who loves creating immersive digital experiences. I specialize in building modern web applications with a focus on stunning UI/UX and seamless user interactions.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-- 🔭 Currently working on innovative portfolio projects
-- 🌱 Exploring advanced React patterns and 3D web experiences
-- 💡 Passionate about clean code and beautiful interfaces
-- 🎨 Love combining creativity with technology
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/Muhib-Mehdi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Muhib-Mehdi" /></a></p><br><br>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhib-mehdi&show_icons=true&locale=en&layout=compact" alt="muhib-mehdi" /></p>
 
-## 🚀 Featured Project: Interactive Portfolio OS
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhib-mehdi&show_icons=true&locale=en" alt="muhib-mehdi" /></p>
 
-This repository contains my **interactive portfolio** designed as a fully functional operating system interface. It showcases my work through an engaging, desktop-like experience.
-
-### ✨ Key Features
-
-- 🖥️ **OS-Style Interface**: Complete desktop environment with windows, taskbar, and system tray
-- 🎨 **Modern Design**: Sleek UI with smooth animations and transitions
-- 📱 **Fully Responsive**: Works seamlessly across all devices
-- 🌙 **Dark Mode**: Eye-friendly interface
-- 🎯 **Interactive Apps**: Multiple applications showcasing different projects
-- ⚡ **High Performance**: Built with Next.js 14 and optimized for speed
-
-### 🛠️ Tech Stack
-
-![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js)
-![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript)
-![Three.js](https://img.shields.io/badge/Three.js-3D-000000?style=flat-square&logo=three.js)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=flat-square&logo=tailwind-css)
-![Framer Motion](https://img.shields.io/badge/Framer-Motion-0055FF?style=flat-square&logo=framer)
-![Zustand](https://img.shields.io/badge/Zustand-State-000000?style=flat-square)
-
-**Core Technologies:**
-- **Framework**: Next.js 14 (App Router)
-- **Language**: TypeScript
-- **Styling**: Tailwind CSS
-- **Animations**: Framer Motion
-- **3D Graphics**: Three.js with React Three Fiber
-- **State Management**: Zustand
-- **AI Integration**: Google Generative AI
-
----
-
-## 🎯 What's Inside
-
-The portfolio includes several interactive applications:
-
-- 📂 **File Explorer**: Browse through my projects and work
-- 🌐 **Web Browser**: Explore my online presence
-- 💬 **Chat App**: AI-powered chat interface
-- 📱 **Phone App**: Contact information and social links
-- 🎵 **Media Player**: Showcase of creative work
-- ⚙️ **Settings**: Customize the experience
-
----
-
-## 🚀 Quick Start
-
-Want to run this locally? Here's how:
-
-```bash
-# Clone the repository
-git clone https://github.com/Muhib-Mehdi/Muhib-Mehdi.git
-
-# Navigate to the project
-cd Muhib-Mehdi
-
-# Install dependencies
-npm install
-
-# Set up environment variables
-cp .env.example .env.local
-# Add your API keys to .env.local
-
-# Run the development server
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
----
-
-## 📦 Project Structure
-
-```
-portfolio-os/
-├── app/                    # Next.js app directory
-├── components/            # React components
-│   ├── apps/             # Individual application components
-│   ├── Desktop.tsx       # Main desktop interface
-│   ├── Taskbar.tsx       # Bottom taskbar
-│   └── Window.tsx        # Window management
-├── lib/                   # Utilities and helpers
-│   ├── store.ts          # Zustand state management
-│   └── utils.ts          # Helper functions
-├── public/               # Static assets
-└── tailwind.config.js    # Tailwind configuration
-```
-
----
-
-## 🌟 Skills & Technologies
-
-### Frontend Development
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
-
-### Styling & Animation
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-
-### 3D & Graphics
-![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js)
-![WebGL](https://img.shields.io/badge/-WebGL-990000?style=flat-square&logo=webgl)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhib-Mehdi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhib-Mehdi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muhib-Mehdi&theme=tokyonight&hide_border=true&background=0D1117)
-
-</div>
-
----
-
-## 📫 Let's Connect
-
-I'm always open to interesting conversations and collaboration opportunities!
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.vercel.app)
-
-</div>
-
----
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-<div align="center">
-
-### ⭐ If you like this project, give it a star!
-
-**Made with ❤️ by Muhib Mehdi**
-
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhib-mehdi&" alt="muhib-mehdi" /></p>
