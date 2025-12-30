@@ -21,9 +21,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Muhib-Mehdi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Muhib-Mehdi" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhib-mehdi&show_icons=true&locale=en&layout=compact" alt="muhib-mehdi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhib-mehdi&show_icons=true&locale=en" alt="muhib-mehdi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhib-mehdi&" alt="muhib-mehdi" /></p>
