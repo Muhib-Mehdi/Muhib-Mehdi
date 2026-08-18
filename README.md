@@ -1,6 +1,4 @@
-<div id="toc">
-      <img width="1700" height="460" alt="github-header-banner (2)" src="https://github.com/user-attachments/assets/ec1a07df-a22a-4227-88b9-4fdda4e97579" />
-</div>
+
 <table width="100%">
 <tr>
 <td width="38%" align="center">
