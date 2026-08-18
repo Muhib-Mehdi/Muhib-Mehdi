@@ -7,6 +7,7 @@
 <img src="https://www.gitskins.com/api/section/wordmark?username=Muhib-Mehdi&theme=neon&style=terminal" alt="Muhib Mehdi" />
 </td>
 </tr>
+  ![Profile views](https://komarev.com/ghpvc/?username=abbas-rz&label=Profile%20views&color=0e75b6&style=flat)
 </table>
 
 <br>
