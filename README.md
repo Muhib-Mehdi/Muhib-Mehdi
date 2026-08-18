@@ -1,4 +1,3 @@
-![Hey, there](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
 <table width="100%">
 <tr>
 <td width="38%" align="center">
